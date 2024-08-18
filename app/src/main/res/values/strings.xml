@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="error_input_empty">Fields cannot be empty!</string>
+    <string name="error_password_short">Password must be atleast 8 characters</string>
+    <string name="error_invalid_email">Invalid email!</string>
+    <string name="success_register">Registration Successful</string>
+    <string name="logout">Logout</string>
+    <string name="already_exist_sign_in">Already exist? Sign In</string>
+    <string name="sign_up_with_api">Sign Up with API</string>
+    <string name="sign_up_with_firebase">Sign Up with Firebase</string>
+    <string name="passwordd">password</string>
+    <string name="emaill">Email</string>
+    <string name="username">Username</string>
+    <string name="account">Account</string>
+    <string name="create_your">Create your</string>
+    <string name="create_a_new_accountt">create_a_new_account</string>
+    <string name="sign_in_with_api">Sign In with API</string>
+    <string name="sign_in_with_firebase">Sign In with Firebase</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="sign_inn">Sign in!</string>
+    <string name="hello">Hello</string>
+</resources>
